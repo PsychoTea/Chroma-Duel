@@ -1,0 +1,16 @@
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\bin\Debug\Chroma Duel.exe.config
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\obj\Debug\Chroma_Duel.Properties.Resources.resources
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\obj\Debug\Chroma Duel.csproj.GenerateResource.Cache
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\bin\Debug\Chroma Duel.exe
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\bin\Debug\Chroma Duel.pdb
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\bin\Debug\Corale.Colore.dll
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\bin\Debug\log4net.dll
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\bin\Debug\Corale.Colore.xml
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\bin\Debug\log4net.xml
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\obj\Debug\Chroma Duel.exe
+s:\libraries\documents\visual studio 2015\Projects\Chroma Duel\Chroma Duel\obj\Debug\Chroma Duel.pdb
+S:\Libraries\Documents\Visual Studio 2015\Projects\Chroma Duel\Chroma Duel\obj\Debug\Chroma_Duel.Form1.resources
+S:\Libraries\Documents\Visual Studio 2015\Projects\Chroma Duel\Chroma Duel\obj\Debug\Chroma Duel.exe.manifest
+S:\Libraries\Documents\Visual Studio 2015\Projects\Chroma Duel\Chroma Duel\bin\Debug\Chroma Duel.exe.manifest
+S:\Libraries\Documents\Visual Studio 2015\Projects\Chroma Duel\Chroma Duel\bin\Debug\Chroma Duel.application
+S:\Libraries\Documents\Visual Studio 2015\Projects\Chroma Duel\Chroma Duel\obj\Debug\Chroma Duel.application
